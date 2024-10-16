@@ -1,0 +1,19 @@
+order_id,order_date,customer_name,category,product,sales,profit
+CA-2015-124891,31-07-2015,Rick Hansen,Technology,Accessories,2309.65,762.1845
+CA-2017-135909,13-10-2017,Jane waco,office Supplies,Binders,5083.96,1906.485
+CA-2015-116638,28-01-2015,Joseph Holt,Furniture,Tables,2953.18,-1862.3124
+CA-2017-143567,11-02-2017,Thomas Boland,Office Supplies,Accessories,2249.91,517.4793
+CA-2014-154627,29-10-2014,Sue Ann Reed,Technology,Phones,2735.95,341.994
+CA-2016-159016,10-03-2016,Karen Ferguson,Technology,Phones,4158.91,363.9048
+CA-2015-139731,15-10-2015,Joel Eaton,Furniture,Chairs,2453.43,-350.49
+CA-2014-168494,12-12-2014,Nora Preis,Furniture,Tables,3610.85,135.4068
+CA-2014-160766,14-09-2014,Darrin Martin,Technology,Machines,2799.96,1371.9804
+US-2017-168116,04-11-2017,Grant Thornton,Technology,Machines,7999.98,-3839.9904
+CA-2014-116904,23-09-2014,Sanjit Chand,Office Supplies,Binders,9449.95,4630.4755
+US-2015-163825,16-06-2015,Lena Creighton,Office Supplies,Binders,3050.38,1143.891
+US-2017-135013,24-07-2017,Harold Ryan,Technology,Copiers,2399.96,839.986
+CA-2015-111829,19-03-2015,Fred Hopkins,Technology,Copiers,3149.93,1480.4671
+CA-2017-129021,23-08-2017,Patrick O Brill,Technology,Phones,4367.9,327.5922
+CA-2017-129021,23-08-2017,Patrick O Brill,Technology,Phones,4367.9,327.5922
+CA-2016-143805,01-12-2016,Jonathan Doherty,Office Supplies,Appliances,2104.55,694.5015
+CA-2015-114811,08-11-2015,Keith Dawkins,Technology,Machines,4643.8,2229.024
